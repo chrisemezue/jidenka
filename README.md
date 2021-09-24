@@ -1,7 +1,5 @@
 # Jidenka
-“Jide Nka” is an Igbo word which means “always be creative” or “always hold on to creativity.” This name is specially chosen to represent the constant creative state of the proposed AI platform and its ability to collaborate with its human agent in the creative process as it affects the different genres of African Literature. 
-
-The objective behind this effort is to use Artificial Intelligence in creating a poem, which will not only carry the African experience and worldview, but will reveal and share Africa’s poetic sensibilities and styles.
+Jide Nka is a conceptualized Artificial Intelligence platform, which will enable the machine creation of poems and stories within which African sensibilities and literary styles can be incorporated. The inspiration for this project came from the duo’s attempt at creating an African poem with the Google’s Verse by Verse artificial Intelligence platform. Although, the duo succeeded in creating two poems, yet they saw that their creation was overshadowed by western styles and sensibilities, hence the need for an artificial intelligence platform that could be dedicated to African literary creations. From an indigenous African language phrase that means “always hold on to creativity” or “always be creative,” Jide Nka machine learning model will enable the production of diverse literary creative styles that reflect the richness of the African literary landscape.
 
 
 ## Initial attempt - The African Robo Poems 
