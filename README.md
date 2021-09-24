@@ -14,6 +14,7 @@ Interestingly, since my objective was to write a poem, which while being univers
 
 After some effort, I was able to produce the poems “***Pause and Wander***” and “***African poetry is***” from the Google’s Verse by Verse AI platform. 
 ![Pause and Wander](./african-robo-poems/pause_and_wander.png "Pause and Wander")
+- - - -
 ![African poettry is...](./african-robo-poems/african_poetry_is.png "African poetry is...")
-
+- - - -
 Furthermore, although the two poems have very interesting poetic qualities, yet they cannot be called African poems, because of ***their inability to effectively reflect African images, sensibilities and world views***. These, among other issues inspired the duo [G.M.T Emezue](https://www.gmtemezue.com/) (a creative writer and critic) and [Chris Emezue](https://mila.quebec/en/person/chris-emezue/) to collaborate towards creating an AI platform called “JideNka” which will enable creative writers to create African Prose, Poem or drama. This is a work in progress.
