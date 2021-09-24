@@ -22,5 +22,11 @@ Furthermore, although the two poems have very interesting poetic qualities, yet 
 
 
 ## Model Setup 
-Using a pre-trained Transformer-based language model, we will finetune it with the English translations of African folktales, African Oral poems, some written poems and written prose fiction (for which we have secured permission for third party usages). The choice of African oral poems and folktales stems from the fact that these genres of literature, which are dynamic in contemporary African settings are huge resources for sourcing African images, poetic expressions, styles, worldviews and sensibilities. While these oral traditional genres also serve as great repositories for Africa’s poetic forms and structures, Africa’s prose fictional styles, their status as artifacts for communal heritage, render them as the best data source to be used for this project. Furthermore, the researches intend to scour the databases of many higher institutions in Africa, from where they hope to get the typed and English translations of these oral genres.  
+Using a pre-trained Transformer-based language model, we will finetune it with the English translations of African folktales, African Oral poems, some written poems and written prose fiction (for which we have secured permission for third party usages). 
+
+The choice of African oral poems and folktales stems from the fact that these genres of literature, which are dynamic in contemporary African settings are huge resources for sourcing African images, poetic expressions, styles, worldviews and sensibilities.
+
+While these oral traditional genres also serve as great repositories for Africa’s poetic forms and structures, Africa’s prose fictional styles, their status as artifacts for communal heritage, render them as the best data source to be used for this project. 
+
+Furthermore, the researches intend to scour the databases of many higher institutions in Africa, from where they hope to get the typed and English translations of these oral genres.  
 
